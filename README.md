@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hola. I am Motawash Semeen Chowdhury! 👋 </h1>
+<h1 align="center"> Hola. I am Tonmoy Chowdhury! 👋 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0nm0yz&label=Profile%20views&color=0e75b6&style=flat" alt="t0nm0yz" /> </p>
 
