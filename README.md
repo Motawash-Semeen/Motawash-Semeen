@@ -55,5 +55,6 @@ Here are some ideas to get you started:
 
 
 <p  align="center">
- <img align="center" alt="Coding" width="400" height="auto" src="https://camo.githubusercontent.com/e17fa803d78ac12033843b430779e92bebbe43a6bf3a8625f0c8ccabfd97dacc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f38372f65622f61353837656236393866663639646164356566663539333561636331373165382e676966" data-canonical-src="https://i.pinimg.com/originals/a5/87/eb/a587eb698ff69dad5eff5935acc171e8.gif" style="max-width: 100%;">
+ <img align="center" alt="Coding" width="400" height="auto" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" data-canonical-src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" style="max-width: 100%;">
  </p>
+ 
