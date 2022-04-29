@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 
 <p  align="center">
- <img align="center" alt="Coding" width="400" height="auto" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" data-canonical-src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" style="max-width: 100%;">
+ <img align="center" alt="Coding" width="400" height="auto" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" data-canonical-src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" style="max-width: 100%;">
  </p>
  
