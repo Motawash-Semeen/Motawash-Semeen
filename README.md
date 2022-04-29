@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 <p  align="center">
- <a href="https://camo.githubusercontent.com/6ff814e695dcc4b463fa1fa5f72e79919004f112ff7af3bdaf4365902055abb2/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141532f636f64696e672e676966" rel="noreferrer"> <img align="center" alt="Coding" width="50" height="auto" src="https://www.bangiresorthotel.com/wp-content/uploads/2021/06/arrow-down-bangi.gif" style="max-width: 50%;"></a>
+ <a href="https://github.com/T0nm0yZ" rel="noreferrer"> <img align="center" alt="Coding" width="50" height="auto" src="https://www.bangiresorthotel.com/wp-content/uploads/2021/06/arrow-down-bangi.gif" style="max-width: 50%;"></a>
 </p>
 
 <br/>
