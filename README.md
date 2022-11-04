@@ -45,26 +45,7 @@ Here are some ideas to get you started:
 
 
 
-<p  align="center">
- <a href="https://github.com/T0nm0yZ" rel="noreferrer"> <img align="center" alt="Coding" width="50" height="auto" src="https://www.bangiresorthotel.com/wp-content/uploads/2021/06/arrow-down-bangi.gif" style="max-width: 50%;"></a>
-</p>
 
-<br/>
-<br/>
-
-
-<p  align="center">
- <img align="center" alt="Coding" width="400" height="auto" src="https://c.tenor.com/qJ5evVs-_uUAAAAS/coding.gif" data-canonical-src="https://c.tenor.com/qJ5evVs-_uUAAAAS/coding.gif" style="max-width: 100%;">
- </p>
- 
- <br/>
- <br/>
-
-<p>
-  <img align="center"  width="32%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=t0nm0yz&show_icons=true&locale=en&layout=compact" alt="t0nm0yz" />
-<img align="center"  width="32%" height="35%"  src="https://github-readme-streak-stats.herokuapp.com/?user=t0nm0yz&" alt="t0nm0yz" />
-<img align="center"  width="32%" height="35%"  src="https://github-readme-stats.vercel.app/api?username=t0nm0yz&show_icons=true&locale=en" alt="t0nm0yz" />
- </p>
 
 
 
