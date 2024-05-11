@@ -70,8 +70,6 @@ Hi there! I'm Motawash Semeen Chowdhury, a passionate web developer with a knack
 <!-- ## Certificates -->
 <h2 align="center">📑 &nbsp; Certificates:</h2>
 
-## Web Development & Programming Languages
-
 - [Responsive Web Design](https://drive.google.com/file/d/1wwoMqskuihZ8IbcxbhnSCgNmvXJWNghu/view?usp=drive_link)
   - Description: Completed an online course on Responsive Web Design under Creative IT and learned HTML, CSS, JavaScript, Bootstrap, Tailwind and responsiveness.
 
