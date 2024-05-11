@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- banner image starts here  -->
+<img src="https://i.ibb.co/xshh6cZ/github-header-image.png" width="100%">
+<!-- banner image ends here  -->
+
 <h1 align="center"> Hola. I am Motawash Semeen Chowdhury! 👋 </h1>
 <p>
 Hi there! I'm Motawash Semeen Chowdhury, a passionate web developer with a knack for crafting immersive digital experiences. Welcome to my GitHub repository, where I showcase my latest projects, experiments, and contributions to the exciting world of web development. <p align="right"> <img src="https://komarev.com/ghpvc/?username=t0nm0yz&label=Profile%20views&color=0e75b6&style=flat" alt="t0nm0yz" /> </p>
