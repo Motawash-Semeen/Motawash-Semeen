@@ -1,8 +1,4 @@
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0nm0yZ)](https://github.com/T0nm0yZ/github-readme-stats)
-
-**T0nm0yZ/T0nm0yZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,8 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=t0nm0yz&label=Profile%20views&color=0e75b6&style=flat" alt="t0nm0yz" /> </p>
 -->
 
 <h1 align="center"> Hola. I am Motawash Semeen Chowdhury! 👋 </h1>
@@ -22,14 +16,6 @@ Here are some ideas to get you started:
 Hi there! I'm Motawash Semeen Chowdhury, a passionate web developer with a knack for crafting immersive digital experiences. Welcome to my GitHub repository, where I showcase my latest projects, experiments, and contributions to the exciting world of web development. <p align="right"> <img src="https://komarev.com/ghpvc/?username=t0nm0yz&label=Profile%20views&color=0e75b6&style=flat" alt="t0nm0yz" /> </p>
 </p>
 
-<!-- About Me starts here
-<h2  align="center">About me:</h2>
-<br/>
-<p>
-I am a passionate web developer. I am improving my web development skills day by day. From frontend magic to backend wizardry, I love diving deep into the intricacies of code to bring ideas to life. Every day I want to learn something new and share my knowledge with others.
-</p>
-
-About Me ends here  -->
 
 <!-- My Projects Starts here  -->
 <h2  align="center">My Projects:</h2>
@@ -53,7 +39,6 @@ About Me ends here  -->
 
 &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motawash-Semeen)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Motawash-Semeen&show_icons=true)
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Motawash-Semeen)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <br/>
@@ -100,20 +85,6 @@ About Me ends here  -->
   - Description: Participated on ICPC Preliminary round and lead my team to 121th position
 
 
-<!-- my sports and game section starts here
-
-### Sports / Game / Activities / Hobby:
-
--  ⚽ Football, 🏏 Cricket, 🏸 Badminton, 🏐 Volleyball
--  🏃‍♂️ Running, 🚶‍♂️ Walking
-- ✈️ Travelling
-
-<br />
-my sports and games section ends here  -->
-
-
-<!-- Contact Me starts here  -->
-
 <h2  align="center">Connect with me:</h2>
 <br/>
 
@@ -128,21 +99,10 @@ my sports and games section ends here  -->
 
 <!-- Contact Me end here  -->
 
-<!-- Get In touch section starts here 
-<h2 align="center">Get in Touch:</h2>
-Let's collaborate! Reach out via:
-
-- Email: [semeen.chowdhury@gmail.com](mailto:semeen.chowdhury@gmail.com)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/motawash/)
-
-Let's bring ideas to life together!
-
- Get In touch section ends here  -->
-
 ---
 <p align="center"> Thanks for going through my Portfolio.
 All rights reserved by Motawash Semeen @2022</p>
----
+
 
 
 
