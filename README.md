@@ -70,11 +70,11 @@ I am a passionate web developer. I am improving my web development skills day by
 <br/>
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motawash-Semeen)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motawash-Semeen)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Motawash-Semeen&show_icons=true)
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Motawash-Semeen)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Motawash-Semeen&show_icons=true)
+
 <br/>
 <!-- work experience section starts here  -->
 
