@@ -32,14 +32,22 @@ Hi there! I'm Motawash Semeen Chowdhury, a passionate web developer with a knack
 <h2 align="center">✍🏻 &nbsp; Languages and Tools:</h2>
 <br/>
 
-<p  align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
+<div align="center">
+   
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,jquery,react,php,laravel,mysql,python,figma,xd)](https://github.com/Motawash-Semeen)
+   
+</div>
 
 <br/>
 <!-- github stats starts here  -->
 
-&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motawash-Semeen)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Motawash-Semeen&show_icons=true)
+<div align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Motawash-Semeen&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Motawash-Semeen&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Motawash-Semeen&theme=github_dark&utcOffset=8)
 
+</div>
+
+<!--&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motawash-Semeen)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Motawash-Semeen&show_icons=true) -->
 
 <br/>
 <!-- work experience section starts here  -->
@@ -47,10 +55,13 @@ Hi there! I'm Motawash Semeen Chowdhury, a passionate web developer with a knack
 <!-- ### 💼 &nbsp; Employment History -->
 <h2 align="center">💼 &nbsp; Employment History:</h2>
 
+<div align="center">
+
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Junior Programmer   | Business Automation LTD                     | Janu 2024 - Running | Mirpur DOHS, Dhaka |
 
+</div>
 
 <br />
 <!-- work experience section ends here  -->
@@ -82,7 +93,7 @@ Hi there! I'm Motawash Semeen Chowdhury, a passionate web developer with a knack
 - [Participate On ICPC](https://drive.google.com/file/d/14tNuLdjAmPACXUPkUO77dU5tPZKJ-Ejb/view?usp=drive_link)
   - Description: Participated on ICPC Preliminary round and lead my team to 121th position
 
-
+<br/>
 <h2  align="center">🙋🏻‍♂️ &nbsp; Connect with me:</h2>
 <br/>
 
