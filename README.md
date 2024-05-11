@@ -1,7 +1,3 @@
-
-
-
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0nm0yZ)](https://github.com/T0nm0yZ/github-readme-stats)
 
@@ -23,35 +19,19 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hola. I am Motawash Semeen Chowdhury! 👋 </h1>
 <p>
-Hi there! I'm M, a passionate web developer with a knack for crafting immersive digital experiences. Welcome to my GitHub repository, where I showcase my latest projects, experiments, and contributions to the exciting world of web development.
+Hi there! I'm Motawash Semeen Chowdhury, a passionate web developer with a knack for crafting immersive digital experiences. Welcome to my GitHub repository, where I showcase my latest projects, experiments, and contributions to the exciting world of web development. <p align="right"> <img src="https://komarev.com/ghpvc/?username=t0nm0yz&label=Profile%20views&color=0e75b6&style=flat" alt="t0nm0yz" /> </p>
 </p>
+
+<!-- About Me starts here
 <h2  align="center">About me:</h2>
 <br/>
 <p>
 I am a passionate web developer. I am improving my web development skills day by day. From frontend magic to backend wizardry, I love diving deep into the intricacies of code to bring ideas to life. Every day I want to learn something new and share my knowledge with others.
 </p>
 
-<h2  align="center">Connect with me:</h2>
-<br/>
+About Me ends here  -->
 
-<p  align="center">
-<a href="https://www.linkedin.com/in/motawash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/motawash/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/motawash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/motawash/" height="30" width="40" /></a>
- <a href="https://www.codechef.com/users/motasemeenz" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="motasemeenz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@motawash15_14166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@motawash15_14166" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/capt_n3m0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="capt_n3m0" height="30" width="40" /></a>
-</p>
-
-<h2  align="center">What I Do:</h2>
-<br/>
-
-- **Frontend Development**: I specialize in crafting pixel-perfect user interfaces using HTML, CSS, JavaScript, Jquery, Bootstrap, Tailwind. Whether it's creating responsive layouts or implementing smooth animations.
-
-- **Backend Development**: Building robust server-side applications is where I thrive. I'm proficient in languages like PHP, Laravel and Mysql and I enjoy architecting scalable solutions that handle complex data and business logic efficiently.
-
-- **Full-Stack Mastery**: Bridging the gap between frontend and backend, I excel in full-stack development. From setting up databases to deploying applications, I'm committed to delivering end-to-end solutions that meet both user needs and business objectives.
-
-
+<!-- My Projects Starts here  -->
 <h2  align="center">My Projects:</h2>
 <br/>
 
@@ -61,6 +41,7 @@ I am a passionate web developer. I am improving my web development skills day by
 - [Ecommerce using PHP](https://github.com/Motawash-Semeen/CMS-PHP): An e-commerce website developed using PHP and MySQL, providing a simple yet powerful platform for buying and selling products online. This project features user authentication, product listing, shopping cart functionality, and order management capabilities. Using- PHP, MYSQL, Jquery.
 - [Personal Blog using PHP](https://github.com/Motawash-Semeen/ecommerce-PHP/tree/master/public): A personal blogging platform created using PHP, allowing users to publish and share their thoughts, ideas, and experiences online. This project includes features such as user registration, post creation, commenting, and category management functionalities. Using- PHP, MYSQL, Jquery.
 
+<!-- My Projects end here  -->
 
 <h2 align="center">Languages and Tools:</h2>
 <br/>
@@ -78,7 +59,8 @@ I am a passionate web developer. I am improving my web development skills day by
 <br/>
 <!-- work experience section starts here  -->
 
-### 💼 &nbsp; Employment History
+<!-- ### 💼 &nbsp; Employment History -->
+<h2 align="center">💼 &nbsp; Employment History:</h2>
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
@@ -89,7 +71,8 @@ I am a passionate web developer. I am improving my web development skills day by
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
-### 👨🏻‍🎓 &nbsp; Education
+<!-- ### 👨🏻‍🎓 &nbsp; Education -->
+<h2 align="center">👨🏻‍🎓 &nbsp; Education:</h2>
 
 1. B.Sc. in Computer Science & Engineering  
    Daffodil International University  
@@ -99,18 +82,25 @@ I am a passionate web developer. I am improving my web development skills day by
 
 <!-- education section ends here  -->
 
-<!-- my languages section starts here  -->
+<!-- ## Certificates -->
+<h2 align="center">📑 &nbsp; Certificates:</h2>
 
-### Languages:
+## Web Development & Programming Languages
 
-- Bangla : Native
-- English : Advanced
-- Hindi/ Urdhu : Intermediate
-  <br />
+- [![Responsive Web Design]](https://drive.google.com/file/d/1wwoMqskuihZ8IbcxbhnSCgNmvXJWNghu/view?usp=drive_link)
+  - Description: Completed an online course on Responsive Web Design under Creative IT and learned HTML, CSS, JavaScript, Bootstrap, Tailwind and responsiveness.
 
-<!-- my languages section ends here  -->
+- [![Fullstack Javascript Course]](https://drive.google.com/file/d/1ABCOdTODNEUAxDwRxqMnW9Rhk36C2L81/view?usp=drive_link)
+  - Description: Received certification for completing a course on Fullstack Javascript Course under MSB Academy and learned Jquery, React, Ajax.
 
-<!-- my sports and game section starts here  -->
+- [![PHP with Laravel]](https://drive.google.com/file/d/1UKf9qoo6vBtje-bN1cXuXBDBsMPrafAh/view?usp=drive_link)
+  - Description: Received certification for completing a course on PHP with Laravel under BASIS PencilBox and learned PHP, Laravel, Mysql.
+
+- [![Participate On ICPC]](https://drive.google.com/file/d/14tNuLdjAmPACXUPkUO77dU5tPZKJ-Ejb/view?usp=drive_link)
+  - Description: Participated on ICPC Preliminary round and lead my team to 121th position
+
+
+<!-- my sports and game section starts here
 
 ### Sports / Game / Activities / Hobby:
 
@@ -119,9 +109,26 @@ I am a passionate web developer. I am improving my web development skills day by
 - ✈️ Travelling
 
 <br />
-<!-- my sports and games section ends here  -->
+my sports and games section ends here  -->
 
-<!-- Get In touch section starts here  -->
+
+<!-- Contact Me starts here  -->
+
+<h2  align="center">Connect with me:</h2>
+<br/>
+
+<p  align="center">
+<a href="mailto:semeen.chowdhury@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="mailto:semeen.chowdhury@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/motawash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/motawash/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/motawash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/motawash/" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/motasemeenz" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="motasemeenz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@motawash15_14166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@motawash15_14166" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/capt_n3m0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="capt_n3m0" height="30" width="40" /></a>
+</p>
+
+<!-- Contact Me end here  -->
+
+<!-- Get In touch section starts here 
 <h2 align="center">Get in Touch:</h2>
 Let's collaborate! Reach out via:
 
@@ -130,7 +137,7 @@ Let's collaborate! Reach out via:
 
 Let's bring ideas to life together!
 
-<!-- Get In touch section ends here  -->
+ Get In touch section ends here  -->
 
 ---
 
