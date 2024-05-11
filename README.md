@@ -42,7 +42,25 @@ I am a passionate web developer. I am improving my web development skills day by
 <a href="https://codeforces.com/profile/capt_n3m0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="capt_n3m0" height="30" width="40" /></a>
 </p>
 
+<h2  align="center">What I Do:</h2>
 <br/>
+
+- **Frontend Development**: I specialize in crafting pixel-perfect user interfaces using HTML, CSS, JavaScript, Jquery, Bootstrap, Tailwind. Whether it's creating responsive layouts or implementing smooth animations.
+
+- **Backend Development**: Building robust server-side applications is where I thrive. I'm proficient in languages like PHP, Laravel and Mysql and I enjoy architecting scalable solutions that handle complex data and business logic efficiently.
+
+- **Full-Stack Mastery**: Bridging the gap between frontend and backend, I excel in full-stack development. From setting up databases to deploying applications, I'm committed to delivering end-to-end solutions that meet both user needs and business objectives.
+
+
+<h2  align="center">My Projects:</h2>
+<br/>
+
+- [Circugo Video Streaming Website](https://www.circugo.com): A modern video streaming platform designed to deliver high-quality content to users worldwide. Using- LARAVEL, PHP, MYSQL, Jquery.
+- [Parking Website](https://github.com/Motawash-Semeen/Parking-Website): An efficient web application for managing and finding parking spaces. This project includes features such as real-time availability updates, user-friendly booking interfaces, and administrative tools for managing parking lots and user accounts. Using- LARAVEL, PHP, MYSQL, Jquery.
+- [Ecommerce using Laravel](https://github.com/Motawash-Semeen/ecom-laravel): An e-commerce platform built using the Laravel framework, offering a comprehensive shopping experience for customers. This project includes features such as product catalog management, secure payment processing, and order tracking functionalities. Using- LARAVEL, PHP, MYSQL, Jquery.
+- [Ecommerce using PHP](https://github.com/Motawash-Semeen/CMS-PHP): An e-commerce website developed using PHP and MySQL, providing a simple yet powerful platform for buying and selling products online. This project features user authentication, product listing, shopping cart functionality, and order management capabilities. Using- PHP, MYSQL, Jquery.
+- [Personal Blog using PHP](https://github.com/Motawash-Semeen/ecommerce-PHP/tree/master/public): A personal blogging platform created using PHP, allowing users to publish and share their thoughts, ideas, and experiences online. This project includes features such as user registration, post creation, commenting, and category management functionalities. Using- PHP, MYSQL, Jquery.
+
 
 <h2 align="center">Languages and Tools:</h2>
 <br/>
@@ -95,8 +113,17 @@ I am a passionate web developer. I am improving my web development skills day by
 <br />
 <!-- my sports and games section ends here  -->
 
-<!-- Honors & awards section starts here  -->
+<!-- Get In touch section starts here  -->
+## Get in Touch
 
+Let's collaborate! Reach out via:
+
+- Email: [semeen.chowdhury@gmail.com](mailto:semeen.chowdhury@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/motawash/)
+
+Let's bring ideas to life together!
+
+<!-- Get In touch section ends here  -->
 
 ---
 
